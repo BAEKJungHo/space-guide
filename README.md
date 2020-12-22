@@ -15,7 +15,7 @@
 ### 5. [To-do List](https://github.com/BAEKJungHo/space-guide#todo-list)
 ### 6. [블로그](https://github.com/BAEKJungHo/space-guide#blog)
 ### 7. [채팅](https://github.com/BAEKJungHo/space-guide#chats)
-### [참고](https://github.com/BAEKJungHo/space-guide#references)
+### 📕 [참고](https://github.com/BAEKJungHo/space-guide#references)
 
 # Free vs Team 
 
