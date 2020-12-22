@@ -108,7 +108,7 @@ Free 는 검색에 제한이 있고, Team 부터는 검색에 제한이 없다.
 
 블로그 아티클을 To-do List 로 옮길 수도 있다. 빨간색 네모 박스의 번개 모양을 클릭하면 된다.
 
-![blogArticle](/images/blogArticle2.PNG) 
+![blogArticle](/images/blogArticle22.PNG) 
 
 또한 상세 페이지에서 댓글을 달고, 이모티콘을 추가할 수도 있다.
 
