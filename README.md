@@ -141,4 +141,4 @@ Free 는 검색에 제한이 있고, Team 부터는 검색에 제한이 없다.
 
 - [Space 에서 Repository 생성하기](https://www.culturelog.weddingbook.com/post/jetbrains-space-%EC%82%AC%EC%9A%A9%EA%B8%B0-1-repository)
 - [Space 에서 구글 인증 모듈 붙이기](https://www.culturelog.weddingbook.com/post/jetbrains-space-%EC%82%AC%EC%9A%A9%EA%B8%B0-2-auth-modules)
-  - 구글 인증 모듈을 붙이고 모든 사용자가 접근하면 안되고 회사 메일을 보유한 사람만 접근 가능하도록할 수 있다.
+  - 구글 인증 모듈을 붙이고, 회사 메일을 보유한 사람만 접근 가능하도록할 수 있다.
