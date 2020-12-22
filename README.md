@@ -40,13 +40,26 @@
   - 추가 인증 모듈(Google, GitHub)
   - 추가적인 권한 관리
 
-## SiteName 생성
+## create sitename
 
-- https://`weave`.jetbrains.space/ 형식으로 생성된다. siteName 만 입력하면 jetbrains.space 는 알아서 붙는다.
+- https://`weave`.jetbrains.space/ 형식으로 생성된다. sitename 만 입력하면 jetbrains.space 는 알아서 붙는다.
 
-## Team 생성
+## create teams
 
 - Team 생성은 `대시보드` 또는 좌측 레프트 메뉴의 `Teams` 메뉴에서 생성할 수 있다. 
 - `Create your first team` 를 클릭해서 생성하면 된다.
 
 ![createFirstTeam](/images/createFirstTeam.PNG)
+
+팀 생성 후 다음과 같은 화면이 나온다.
+
+![teams](/images/teams.PNG)
+
+- `Archive` : 팀을 Archive 로 보낸다. Archive 보내고 난 후 상단에 `Restore` 복구 버튼이 생긴다. 
+- `Disband` : 팀을 해체한다.
+- `Move to another team` : 다른 팀으로 이동한다.
+- `New sub-team` : 하위 팀을 생성한다.
+
+![subTeams](/images/subTeams.PNG)
+
+![subTeams](/images/subTeams2.PNG)
