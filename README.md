@@ -10,6 +10,7 @@
 ### 2. [사이트 생성](https://github.com/BAEKJungHo/space-guide#create-sitename)
 ### 3. [팀 생성](https://github.com/BAEKJungHo/space-guide#create-teams)
 ### 4. [검색 기능](https://github.com/BAEKJungHo/space-guide#search)
+### 5. [Todo List](https://github.com/BAEKJungHo/space-guide#todo-list)
 
 # Free vs Team 
 
@@ -81,4 +82,17 @@ Free 는 검색에 제한이 있고, Team 부터는 검색에 제한이 없다.
 
 > Free : [채팅 메시지, 이슈 댓글, 코드 검토 코멘트, 블로그 게시물 댓글 및 기타 일부 메시지가 이 제한에 포함됩니다. 시스템 메시지는 제한에 포함되지 않습니다.](https://www.jetbrains.com/ko-kr/space/buy/?billing=yearly#cloud)
 
+# Todo List
 
+레프트 메뉴에서 번개 모양을 클릭하면 `To-do List` 를 추가할 수 있다. 
+
+![todo](/images/todo.PNG)
+
+- `History`
+  - History 에 Task 를 입력하면 Today 항목에 추가된다.
+- `Today`
+  - 오늘 할 일
+- `Later`
+  - 미래에 할 일 (날짜를 따로 지정할 수 있다.)
+  
+![todo](/images/todoLater.PNG)  
