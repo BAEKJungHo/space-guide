@@ -86,7 +86,7 @@ Free 는 검색에 제한이 있고, Team 부터는 검색에 제한이 없다.
 
 레프트 메뉴에서 번개 모양을 클릭하면 `To-do List` 를 추가할 수 있다. 
 
-![todo](/images/todo.PNG)
+![todo](/images/todoList.PNG)
 
 - `History`
   - History 에 Task 를 입력하면 Today 항목에 추가된다.
