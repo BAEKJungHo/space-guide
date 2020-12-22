@@ -4,7 +4,7 @@
 >
 > [Space 2020 RoadMap](https://blog.jetbrains.com/ko/2020/03/24/space-2020-roadmap-ko/)
 
-## Free vs Team 
+# Free vs Team 
 
 - Free (사용자 무제한)
   - Chats
@@ -40,11 +40,11 @@
   - 추가 인증 모듈(Google, GitHub)
   - 추가적인 권한 관리
 
-## create sitename
+# Create sitename
 
 - https://`weave`.jetbrains.space/ 형식으로 생성된다. sitename 만 입력하면 jetbrains.space 는 알아서 붙는다.
 
-## create teams
+# Create teams
 
 - Team 생성은 `대시보드` 또는 좌측 레프트 메뉴의 `Teams` 메뉴에서 생성할 수 있다. 
 - `Create your first team` 를 클릭해서 생성하면 된다.
@@ -63,3 +63,15 @@
 ![subTeams](/images/subTeams.PNG)
 
 ![subTeams](/images/subTeams2.PNG)
+
+# Search
+
+검색은 단축키 `Ctrl + K` 로 사용할 수 있다.
+
+![search](/images/search.PNG)
+
+Free 는 검색에 제한이 있고, Team 부터는 검색에 제한이 없다.
+
+> Free : [채팅 메시지, 이슈 댓글, 코드 검토 코멘트, 블로그 게시물 댓글 및 기타 일부 메시지가 이 제한에 포함됩니다. 시스템 메시지는 제한에 포함되지 않습니다.](https://www.jetbrains.com/ko-kr/space/buy/?billing=yearly#cloud)
+
+
