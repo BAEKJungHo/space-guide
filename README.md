@@ -43,3 +43,10 @@
 ## SiteName 생성
 
 - https://`weave`.jetbrains.space/ 형식으로 생성된다. siteName 만 입력하면 jetbrains.space 는 알아서 붙는다.
+
+## Team 생성
+
+- Team 생성은 `대시보드` 또는 좌측 레프트 메뉴의 `Teams` 메뉴에서 생성할 수 있다. 
+- `Create your first team` 를 클릭해서 생성하면 된다.
+
+![createFirstTeam](/images/createFirstTeam.PNG)
