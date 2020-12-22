@@ -11,6 +11,7 @@
 ### 3. [팀 생성](https://github.com/BAEKJungHo/space-guide#create-teams)
 ### 4. [검색 기능](https://github.com/BAEKJungHo/space-guide#search)
 ### 5. [Todo List](https://github.com/BAEKJungHo/space-guide#todo-list)
+### 6. [블로그](https://github.com/BAEKJungHo/space-guide#blog)
 
 # Free vs Team 
 
@@ -96,3 +97,14 @@ Free 는 검색에 제한이 있고, Team 부터는 검색에 제한이 없다.
   - 미래에 할 일 (날짜를 따로 지정할 수 있다.)
   
 ![todo](/images/todoLater.PNG)  
+
+# Blog
+
+- 레프트 메뉴에서 Blog 클릭
+
+기본적으로 마크다운 문법을 지원한다. 약간 차이가 나는 부분도 있다. 
+
+![blogArticle](/images/blogArticle.PNG)  
+
+
+
