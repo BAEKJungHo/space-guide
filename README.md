@@ -13,6 +13,7 @@
 ### 5. [To-do List](https://github.com/BAEKJungHo/space-guide#todo-list)
 ### 6. [블로그](https://github.com/BAEKJungHo/space-guide#blog)
 ### 7. [채팅](https://github.com/BAEKJungHo/space-guide#chats)
+### [참고](https://github.com/BAEKJungHo/space-guide#references)
 
 # Free vs Team 
 
@@ -133,3 +134,7 @@ Free 는 검색에 제한이 있고, Team 부터는 검색에 제한이 없다.
 휴가 및 부재 일정은 다음 그림 처럼 추가할 수 있다. 
   
 ![chat](/images/absence.PNG) 
+
+# References
+
+- [Space 에서 Repository 생성하기](https://www.culturelog.weddingbook.com/post/jetbrains-space-%EC%82%AC%EC%9A%A9%EA%B8%B0-1-repository)
