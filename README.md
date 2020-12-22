@@ -4,6 +4,13 @@
 >
 > [Space 2020 RoadMap](https://blog.jetbrains.com/ko/2020/03/24/space-2020-roadmap-ko/)
 
+# 목차
+
+- [Free vs Team 비교](https://github.com/BAEKJungHo/space-guide#free-vs-team) 
+- [사이트 생성](https://github.com/BAEKJungHo/space-guide#create-sitename)
+- [팀 생성](https://github.com/BAEKJungHo/space-guide#create-teams)
+- [검색 기능](https://github.com/BAEKJungHo/space-guide#search)
+
 # Free vs Team 
 
 - Free (사용자 무제한)
