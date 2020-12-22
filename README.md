@@ -2,6 +2,8 @@
 
 > [Download URL](https://www.jetbrains.com/ko-kr/space/buy/?billing=yearly#cloud)
 >
+> [JetBrains Space Demo. An Exploration of Space](https://www.youtube.com/watch?v=ndOxvFcssWo)
+> 
 > [Space 2020 RoadMap](https://blog.jetbrains.com/ko/2020/03/24/space-2020-roadmap-ko/)
 
 # 목차
