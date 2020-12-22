@@ -9,9 +9,10 @@
 ### 1. [Free vs Team 비교](https://github.com/BAEKJungHo/space-guide#free-vs-team) 
 ### 2. [사이트 생성](https://github.com/BAEKJungHo/space-guide#create-sitename)
 ### 3. [팀 생성](https://github.com/BAEKJungHo/space-guide#create-teams)
-### 4. [검색 기능](https://github.com/BAEKJungHo/space-guide#search)
-### 5. [Todo List](https://github.com/BAEKJungHo/space-guide#todo-list)
+### 4. [검색](https://github.com/BAEKJungHo/space-guide#search)
+### 5. [To-do List](https://github.com/BAEKJungHo/space-guide#todo-list)
 ### 6. [블로그](https://github.com/BAEKJungHo/space-guide#blog)
+### 7. [채팅](https://github.com/BAEKJungHo/space-guide#chats)
 
 # Free vs Team 
 
@@ -113,3 +114,22 @@ Free 는 검색에 제한이 있고, Team 부터는 검색에 제한이 없다.
 또한 상세 페이지에서 댓글을 달고, 이모티콘을 추가할 수도 있다.
 
 ![blogArticle](/images/blogArticle3.PNG) 
+
+# Chats
+
+- 레프트 메뉴에서 Chats 클릭
+
+![chat](/images/chat1.PNG)
+
+기본적으로 다음 세 가지 채널(Channel)이 존재한다. 추가적으로 자신(or 팀)의 채널을 생성할 수 있다.
+
+- `General`
+  - 일반적인 채팅이 가능한 채널
+- `Absence`
+  - 휴가, 부재등에 대한 일정을 올릴 수 있는 채널
+- `Blog`
+  - 블로그에 아티클이 등록되는 경우 알림이 오고, 해당 채널에서 즉각적으로 댓글 및 이모티콘을 달 수 있도록 지원하는 채널
+ 
+휴가 및 부재 일정은 다음 그림 처럼 추가할 수 있다. 
+  
+![chat](/images/absence.PNG) 
