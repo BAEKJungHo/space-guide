@@ -6,10 +6,10 @@
 
 # 목차
 
-### [Free vs Team 비교](https://github.com/BAEKJungHo/space-guide#free-vs-team) 
-### [사이트 생성](https://github.com/BAEKJungHo/space-guide#create-sitename)
-### [팀 생성](https://github.com/BAEKJungHo/space-guide#create-teams)
-### [검색 기능](https://github.com/BAEKJungHo/space-guide#search)
+### 1. [Free vs Team 비교](https://github.com/BAEKJungHo/space-guide#free-vs-team) 
+### 2. [사이트 생성](https://github.com/BAEKJungHo/space-guide#create-sitename)
+### 3. [팀 생성](https://github.com/BAEKJungHo/space-guide#create-teams)
+### 4. [검색 기능](https://github.com/BAEKJungHo/space-guide#search)
 
 # Free vs Team 
 
